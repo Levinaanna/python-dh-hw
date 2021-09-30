@@ -1,2 +1,2 @@
 # alevina
-homework for python
+Python homework. HSE 2019
